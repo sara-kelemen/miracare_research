@@ -1,5 +1,5 @@
 import pandas as pd
-from hormone_tracking.readers.info import Info
+from info import Info
 
 class AddPCOS:
 
